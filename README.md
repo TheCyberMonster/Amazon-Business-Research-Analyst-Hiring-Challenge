@@ -40,7 +40,7 @@ By participating in this challenge, you are agreeing to HackerEarth's [terms and
 
 I solved the Problem in 2 stages.
 
-1. Data Extraction From .txt files and save to .csv files
+1. Data Extraction From .txt files and save to .csv files.
 2. use csv files to to build a model
 
-Here i used catboost regression with *Bayesian Search Optimization* for Hyper parameter tuning with optuna. Explore the notebook for detailed work :)
+ Original Dataset is zipped please unzip and use it. i extracted data from the original .txt files and saved as train.csv and test.csv. Here i used catboost regression with *Bayesian Search Optimization* for Hyper parameter tuning with optuna. Explore the notebook for detailed work :)
